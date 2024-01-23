@@ -35,12 +35,15 @@
    <img src="https://raw.githubusercontent.com/sylvain-wei/sylvain-wei/output/github-contribution-grid-snake.svg" >
 </div>
 
+<div align="center">
    <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true">
      <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=compact" alt="Top Langs">
    </a>
+</div>
+
    <a href="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei">
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
    </a>
