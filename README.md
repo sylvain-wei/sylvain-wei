@@ -34,21 +34,26 @@
 
 <div>
    <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true">
-     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
+     <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=compact" alt="Top Langs">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=compact" alt="Top Langs">
+   </a>
+   <a href="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei">
+      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
    </a>
 </div>
 
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei" alt="Shaohang Wei's WakaTime stats">
 </a>
-
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Shaohang Wei's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--[![Shaohang Wei's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
