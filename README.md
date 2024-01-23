@@ -25,6 +25,9 @@
 
 ## 📈Statistics
 
+<div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/sylvain-wei/sylvain-wei/assets/github-contribution-grid-snake.svg" >
+</div>
 
 <div style="text-align: center;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
