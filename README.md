@@ -11,8 +11,18 @@
 
 ## 😎About Me
 
-### Hi there 👋
-This is **Shaohang Wei**, and my French name is **Sylvain** (maybe also my English name😂). I'm a senior student at **Beihang University**(BUAA), majoring in Artificial Intelligence.
+### Hi there 👋 This is **Shaohang Wei**.
+- **Name**: Shaohang Wei
+- **Nom Français**: Sylvain
+- **Education**: Beihang University(BUAA), _Artificial Intelligence_, (Sept 2020-Present)
+- **Location**: Beijing, China
+- **Research Interests**: Natural Language Processing (and related fields).
+Please feel free to reach out to me via 📧E-mail - weish@buaa.edu.cn, 💬WeChat - sylvain4ai !
+
+## 📈Statistics
+<div align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
+</div>
 
 <!--
 **sylvain-wei/sylvain-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
