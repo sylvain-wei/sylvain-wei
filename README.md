@@ -17,8 +17,11 @@
 - 👨‍🎓**Education**: Beihang University(BUAA), _Artificial Intelligence_, (Sept 2020-Present)
 - 🌆**Location**: Beijing, China
 - 🔎**Research Interests**: Natural Language Processing (and related fields).
+- 📧**E-mail**: _weish@buaa.edu.cn_
+- 💬**WeChat**: _sylvain4ai_
+- 🌐**Website**: _https://sylvain-wei.github.io_
 
-Please feel free to reach out to me via 📧E-mail - weish@buaa.edu.cn, 💬WeChat - sylvain4ai !
+**<font color='blue'>If you are interested in any aspect of me, please feel free to reach out to me!</font>**
 
 ## 📈Statistics
 <div align="center">
@@ -26,7 +29,12 @@ Please feel free to reach out to me via 📧E-mail - weish@buaa.edu.cn, 💬WeCh
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
 </div>
 
-[![Shaohang Wei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sylvain-wei&theme=material&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="text-align: center;">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sylvain-wei&theme=material&area=true" alt="Shaohang Wei's github activity graph">
+  </a>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Shaohang Wei's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei)](https://github.com/anuraghazra/github-readme-stats)
 <!--
