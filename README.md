@@ -28,7 +28,7 @@ Please feel free to reach out to me via 📧E-mail - weish@buaa.edu.cn, 💬WeCh
 
 [![Shaohang Wei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sylvain-wei&theme=material&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Shaohang Wei's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sylvain-wei/sylvain-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
