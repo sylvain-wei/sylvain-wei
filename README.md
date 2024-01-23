@@ -21,9 +21,10 @@
 - 💬**WeChat**: _sylvain4ai_
 - 🌐**Website**: _https://sylvain-wei.github.io_
 
-**<font color='blue'>If you are interested in any aspect of me, please feel free to reach out to me!</font>**
+**_If you are interested in any aspect of me, please feel free to reach out to me!_**
 
 ## 📈Statistics
+
 
 <div style="text-align: center;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -31,7 +32,7 @@
   </a>
 </div>
 
-<div align="center">
+<div>
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
 </div>
