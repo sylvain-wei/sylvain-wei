@@ -29,15 +29,6 @@
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-   <div style="flex: 1; margin: 10px;">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
-   </div>
-   <div style="flex: 1; margin: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
-   </div>
-</div>
-
 <div style="text-align: center;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sylvain-wei&theme=material&area=true" alt="Shaohang Wei's github activity graph">
