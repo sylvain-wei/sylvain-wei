@@ -47,11 +47,10 @@
 
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei" alt="Shaohang Wei's WakaTime stats">
-</a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei" alt="Shaohang Wei's WakaTime stats"></a> -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
