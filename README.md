@@ -24,16 +24,19 @@
 **<font color='blue'>If you are interested in any aspect of me, please feel free to reach out to me!</font>**
 
 ## 📈Statistics
-<div align="center">
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
-</div>
 
 <div style="text-align: center;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sylvain-wei&theme=material&area=true" alt="Shaohang Wei's github activity graph">
   </a>
 </div>
+
+<div align="center">
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
+</div>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Shaohang Wei's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei)](https://github.com/anuraghazra/github-readme-stats)
