@@ -33,17 +33,27 @@
 </div>
 
 <div>
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut" alt="Top Langs">
+   <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true">
+     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
    </a>
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=compact" alt="Top Langs">
+   </a>
 </div>
 
 
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei">
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Shaohang Wei's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <!--
 **sylvain-wei/sylvain-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
