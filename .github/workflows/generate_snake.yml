@@ -2,13 +2,13 @@
 
 name: Generate Snake
 
-
 on:
-  watch:
-    types: started
+  workflow_run:
+    workflows: ["Watch Workflow"]
+    types:
+      - started
   schedule:
-    - cron:  '0 0 * * *'
-
+    - cron: '0 0 * * *'
 
 jobs:
   build:
