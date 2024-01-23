@@ -21,7 +21,7 @@
 - 💬**WeChat**: _sylvain4ai_
 - 🌐**Website**: _https://sylvain-wei.github.io_
 
-**_If you are interested in any aspect of me, please feel free to reach out to me!_**
+✨ **_If you are interested in any aspect of me, please feel free to reach out to me!_** ✨
 
 ## 📈Statistics
 
@@ -34,6 +34,9 @@
 
 <div>
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut" alt="Top Langs">
+   </a>
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
 </div>
 
