@@ -25,9 +25,7 @@
 
 ## 📈Statistics
 
-<div align="center">
-   <img src="https://raw.githubusercontent.com/sylvain-wei/sylvain-wei/output/github-contribution-grid-snake.svg" >
-</div>
+
 
 <div style="text-align: center;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -46,7 +44,9 @@
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
    </a>
 
-
+<div align="center">
+   <img src="https://raw.githubusercontent.com/sylvain-wei/sylvain-wei/output/github-contribution-grid-snake.svg" >
+</div>
 
 
 
