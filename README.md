@@ -12,11 +12,12 @@
 ## 😎About Me
 
 ### Hi there 👋 This is **Shaohang Wei**.
-- **Name**: Shaohang Wei
-- **Nom Français**: Sylvain
-- **Education**: Beihang University(BUAA), _Artificial Intelligence_, (Sept 2020-Present)
-- **Location**: Beijing, China
-- **Research Interests**: Natural Language Processing (and related fields).
+- 🇨🇳**Name**: Shaohang Wei, 魏少杭
+- 🇫🇷**Nom Français**: Sylvain
+- 👨‍🎓**Education**: Beihang University(BUAA), _Artificial Intelligence_, (Sept 2020-Present)
+- 🌆**Location**: Beijing, China
+- 🔎**Research Interests**: Natural Language Processing (and related fields).
+
 Please feel free to reach out to me via 📧E-mail - weish@buaa.edu.cn, 💬WeChat - sylvain4ai !
 
 ## 📈Statistics
