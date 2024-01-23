@@ -26,7 +26,7 @@
 ## 📈Statistics
 
 <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/sylvain-wei/sylvain-wei/assets/github-contribution-grid-snake.svg" >
+   <img src="https://raw.githubusercontent.com/sylvain-wei/sylvain-wei/main/assets/github-contribution-grid-snake.svg" >
 </div>
 
 <div style="text-align: center;">
