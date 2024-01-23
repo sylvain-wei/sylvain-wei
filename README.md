@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is **Shaohang Wei**, and my French name is **Sylvain** (maybe also my English name😂).
 <!--
 **sylvain-wei/sylvain-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
