@@ -44,9 +44,8 @@
    </a>
 </div>
 
-   <a href="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei">
-      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
-   </a>
+
+<!--<a href="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei"><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" /></a>-->
 
 
 
