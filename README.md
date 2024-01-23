@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is **Shaohang Wei**, and my French name is **Sylvain** (maybe also my English name😂).
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE;Achuan-2+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=Ars+longa,+vita+brevis.;艺术%E5%8D%83%E7%A7%8B%EF%BC%8C%E4%BA%BA%E7%94%9F%E6%9C%9D%E9%9C%B2" alt="typing-svg">
 </p>
 
 <!--
