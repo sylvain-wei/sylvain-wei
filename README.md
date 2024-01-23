@@ -25,14 +25,15 @@
 
 ## 📈Statistics
 
-
-
 <div style="text-align: center;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sylvain-wei&theme=material&area=true" alt="Shaohang Wei's github activity graph">
   </a>
 </div>
 
+<div align="center">
+   <img src="https://raw.githubusercontent.com/sylvain-wei/sylvain-wei/output/github-contribution-grid-snake.svg" >
+</div>
 
    <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true">
      <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvain-wei&show_icons=true&include_all_commits=true" />
@@ -44,9 +45,7 @@
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvain-wei" />
    </a>
 
-<div align="center">
-   <img src="https://raw.githubusercontent.com/sylvain-wei/sylvain-wei/output/github-contribution-grid-snake.svg" >
-</div>
+
 
 
 
