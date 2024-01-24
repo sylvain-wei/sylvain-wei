@@ -57,6 +57,13 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Other   13 mins         ██████████████████▒░░░░░░   73.00 %
+YAML    4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
+Ruby    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei" alt="Shaohang Wei's WakaTime stats"></a> -->
