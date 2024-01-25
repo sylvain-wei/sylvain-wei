@@ -24,7 +24,9 @@
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
 ✨ _If you are interested in any aspect of me, please feel free to reach out to me!_
+
 ✍️ _I'm writing blogs on my Website:https://sylvain-wei.github.io/blog/_
+
 📧**Email**: _weish@buaa.edu.cn_ 💬**WeChat**: _sylvain4ai_ 🌐**Web**: _https://sylvain-wei.github.io_
 
 
