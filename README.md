@@ -72,9 +72,12 @@ BibTeX     6 mins          ▓░░░░░░░░░░░░░░░░�
 <h3> ⭐ &nbsp;Repositories I'm Following </h3>
 
 📑NLP & LLM:
-- Milestones: https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file
+- LLM Milestones: https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file
 - LLM Learning Roadmap: https://github.com/mlabonne/llm-course
 - LLMs Attribution: https://github.com/HITsz-TMG/awesome-llm-attributions
+
+📑ML Theory:
+- 统计学习方法|笔记: https://github.com/SmirkCao/Lihang
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sylvain_wei" alt="Shaohang Wei's WakaTime stats"></a> -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvain-wei&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
