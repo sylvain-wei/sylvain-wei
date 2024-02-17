@@ -60,7 +60,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 35 mins    █████████████░░░░░░░░░░░░   52.18 %
+JSON     1 hr 8 mins     █████████▒░░░░░░░░░░░░░░░   37.09 %
+Text     19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
 ```
 
 <!--END_SECTION:waka-->
