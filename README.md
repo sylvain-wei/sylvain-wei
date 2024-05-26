@@ -15,7 +15,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🙋‍♂️ &nbsp;My name is **Shaohang Wei**, 魏少杭-🇨🇳, Sylvain-🇫🇷.
-- 👨‍🎓 &nbsp;[Beihang University(BUAA)](https://buaa.edu.cn), _Artificial Intelligence, (Sept 2020-Present) Senior Student_ 
+- 👨‍🎓 &nbsp;[Beihang University(BUAA)](https://buaa.edu.cn), 
 - 🌆 &nbsp;Beijing, China
 - 🔎 &nbsp;Natural Language Processing (and related fields).
 
