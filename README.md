@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sylvain-wei
+<h1 align="center">Hi 👋, I'm Shaohang Wei
 </h1>
 
 
