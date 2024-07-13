@@ -15,7 +15,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🙋‍♂️ &nbsp;My name is **Shaohang Wei**, 魏少杭-🇨🇳, Sylvain-🇫🇷.
-- 👨‍🎓 &nbsp;[Beihang University(BUAA)](https://buaa.edu.cn)
+- 👨‍🎓 &nbsp;Beihang University(B.S.), Peking University(Ph.D. Student)
 - 🌆 &nbsp;Beijing, China
 - 🔎 &nbsp;Natural Language Processing (and related fields).
 
@@ -23,7 +23,7 @@
 
 ✨ _If you are interested in any aspect of me, please feel free to reach out to me!_
 
-📧**Email**: _weish@buaa.edu.cn_ 
+📧**Email**: _shaohang@stu.pku.edu.cn_, _veison1006@outlook.com_
 
 
 <h3> 📈 &nbsp;Statistics </h3>
