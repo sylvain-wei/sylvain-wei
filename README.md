@@ -21,7 +21,7 @@
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
-✨ _If you are interested in any aspect of me, please feel free to reach out to me!_
+✨ If you are interested in any aspect of me, please feel free to reach out to me!
 
 📧**Email**: _shaohang@stu.pku.edu.cn_, _veison1006@outlook.com_
 
