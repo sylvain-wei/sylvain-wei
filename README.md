@@ -15,7 +15,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🙋‍♂️ &nbsp;My name is **Shaohang Wei**, 魏少杭-🇨🇳, Sylvain-🇫🇷.
-- 👨‍🎓 &nbsp;Beihang University(B.S.), Peking University(Ph.D. Student)
+- 👨‍🎓 &nbsp;Peking University(Ph.D. Student), Beihang University(B.S., Previously)
 - 🌆 &nbsp;Beijing, China
 - 🔎 &nbsp;Natural Language Processing (and related fields).
 
