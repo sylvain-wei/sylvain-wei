@@ -20,4 +20,4 @@ I am **Shaohang WEI**, learning **NLP** and **AI**.
 
 ✨ If you are interested in any aspect of me, please feel free to reach out to me!
 
-📧**Email**: _shaohang@stu.pku.edu.cn_, _veison1006@outlook.com_
+📧**Email**: _shaohang[at]stu.pku.edu.cn_, _veison1006[at]outlook.com_
