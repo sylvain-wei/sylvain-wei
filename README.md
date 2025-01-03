@@ -12,8 +12,8 @@
 <!-- <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=Ars+longa,+vita+brevis.;艺术%E5%8D%83%E7%A7%8B%EF%BC%8C%E4%BA%BA%E7%94%9F%E6%9C%9D%E9%9C%B2" alt="typing-svg"></p> -->
 
 
-
-**Brief Intro**: I am **Shaohang WEI**, learning **NLP** and **AI**.
+<h3> Brief Intro </h3>
+I am **Shaohang WEI**, learning **NLP** and **AI**.
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
