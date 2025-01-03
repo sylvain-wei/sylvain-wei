@@ -13,7 +13,7 @@
 
 
 
-Brief Intro: I am **Shaohang WEI**, learning **NLP** and **AI**.
+**Brief Intro**: I am **Shaohang WEI**, learning **NLP** and **AI**.
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
