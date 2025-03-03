@@ -14,7 +14,7 @@
 
 <h3> 🧑🏻‍💻 Brief Intro </h3>
 
-I am **Shaohang WEI**, focusing on **NLP** and **AI**.
+I am **Shaohang WEI**, insterested in **Reasoning in LLMs**, **Post-training**, and **Interpretability of LLMs**.
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
