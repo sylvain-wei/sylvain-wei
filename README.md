@@ -18,6 +18,6 @@ I am Shaohang WEI, insterested in _Reasoning_ in LLMs, _Post-training_, and _Int
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
-✨ If you are interested in any aspect of me, please feel free to reach out to me!
+If you are interested in any aspect of me, please feel free to reach out to me!
 
-📧**Email**: shaohang[at]stu.pku.edu.cn
+**Email**: shaohang[at]stu.pku.edu.cn
