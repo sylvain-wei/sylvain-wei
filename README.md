@@ -14,7 +14,7 @@
 
 <h3> 🧑🏻‍💻 Brief Intro </h3>
 
-I am **Shaohang WEI**, insterested in **Reasoning in LLMs**, **Post-training**, and **Interpretability of LLMs**.
+I am **Shaohang WEI**, insterested in **Reasoning in LLMs**, **Post-training**, and **Interpretability of LLMs**. Strive to seek ways to make LLMs generalize in reasoning ability.
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
