@@ -18,7 +18,7 @@ I am Shaohang WEI, insterested in _Reasoning_ in LLMs, _Post-training_, and _Int
 
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
-**Now I am looking for opportunity for research internship!**
+**Now I am looking for research internship opportunity!**
 
 If you are interested in any aspect of me, please feel free to reach out to me!
 
