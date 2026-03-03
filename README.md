@@ -22,4 +22,6 @@ I am **Shaohang Wei**, a second-year Ph.D. student in Computer Science at Peking
 
 If you are interested in any aspect of me, please feel free to reach out to me!
 
-**Email**: veison1006[at]outlook.com (preferred) or shaohang[at]stu.pku.edu.cn
+**Email**: **veison1006[at]outlook.com** (preferred) or shaohang[at]stu.pku.edu.cn
+
+**Homepage**: [个人主页 / My Homepage](https://sylvain-wei.github.io/)
