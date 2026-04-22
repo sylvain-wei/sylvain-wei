@@ -14,7 +14,7 @@
 
 <h3> 🧑🏻‍💻 Brief Intro </h3>
 
-I am **Shaohang Wei**, a second-year Ph.D. student in Computer Science at Peking University(2024~2029 expected). My research interests broadly span language modeling, with a particular focus on **continual learning** and **self-evolving** of LLMs/**Agents**. I strive to understand the learning behaviors of LLMs and seek ways to enable them to continuously improve and generalize across multiple domains. You can also find me on [Twitter/X](https://x.com/veison02) and [REDNote](https://www.xiaohongshu.com/user/profile/657c1a1200000000190124ce).
+I am **Shaohang Wei**, a second-year Ph.D. student in Computer Science at Peking University(2024~2029 expected). My research interests broadly span language modeling, with a particular focus on (M)LLM-based agents, seeking ways for constructing lifelong-learning agents in real life with generalizable actions and intelligent memory. You can also find me on [Twitter/X](https://x.com/veison02) and [REDNote](https://www.xiaohongshu.com/user/profile/657c1a1200000000190124ce).
 
 🤩 I am open to collaborations and discussions, and I am actively seeking **research intern** opportunities!
 
