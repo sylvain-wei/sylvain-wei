@@ -14,7 +14,7 @@
 
 <h3> 🧑🏻‍💻 Brief Intro </h3>
 
-I am **Shaohang Wei**, a second-year Ph.D. student at the Institute of Computational Linguistics (计算语言学研究所), School of Computer Science, Peking University, advised by Prof. Houfeng Wang.
+I am **Shaohang Wei**, a second-year Ph.D. student at the Institute of Computational Linguistics (计算语言学研究所), School of Computer Science, Peking University.
 
 My research focuses on **foundation model alignment and post-training**, **long-horizon capability generalization in agentic systems**, and **real-world data synthesis and construction** for LLM agents. I am broadly interested in building reliable, generalizable, and self-improving AI agents for real-world environments.
 
