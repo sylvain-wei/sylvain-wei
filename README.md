@@ -14,7 +14,13 @@
 
 <h3> 🧑🏻‍💻 Brief Intro </h3>
 
-I am **Shaohang Wei**, a second-year Ph.D. student in Computer Science at Peking University(2024~2029 expected). My research interests broadly lie in language modeling, with a particular focus on (M)LLM-based agents. I am particularly interested in **building lifelong-learning agents** for real-world environments with generalizable actions and intelligent memory. You can also find me on [Twitter/X](https://x.com/veison02) and [REDNote](https://www.xiaohongshu.com/user/profile/657c1a1200000000190124ce).
+I am **Shaohang Wei**, a second-year Ph.D. student at the Institute of Computational Linguistics (计算语言学研究所), School of Computer Science, Peking University, advised by Prof. Houfeng Wang.
+
+My research focuses on **foundation model alignment and post-training**, **long-horizon capability generalization in agentic systems**, and **real-world data synthesis and construction** for LLM agents. I am broadly interested in building reliable, generalizable, and self-improving AI agents for real-world environments.
+
+You can also find me on [X](https://x.com/veison02) and [小紅書](https://www.xiaohongshu.com/user/profile/657c1a1200000000190124ce).
+
+🤩 I am open to collaborations and discussions, and I am actively seeking **research intern** opportunities!
 
 🤩 I am open to collaborations and discussions, and I am actively seeking **research intern** opportunities!
 
@@ -24,4 +30,4 @@ If you are interested in any aspect of me, please feel free to reach out to me!
 
 **Email**: **veison1006[at]outlook.com** (preferred) or shaohang[at]stu.pku.edu.cn
 
-**Homepage**: [个人主页 / My Homepage](https://sylvain-wei.github.io/)
+**Homepage**: [Homepage](https://sylvain-wei.github.io/)
