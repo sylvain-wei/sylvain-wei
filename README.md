@@ -22,8 +22,6 @@ You can also find me on [X](https://x.com/veison02) and [小紅書](https://www.
 
 🤩 I am open to collaborations and discussions, and I am actively seeking **research intern** opportunities!
 
-🤩 I am open to collaborations and discussions, and I am actively seeking **research intern** opportunities!
-
 <h3> 🤝🏻 &nbsp;Contact Me </h3>
 
 If you are interested in any aspect of me, please feel free to reach out to me!
