@@ -5,7 +5,7 @@
 I am currently a Ph.D. student at [Peking University](https://www.pku.edu.cn/). 
 
 I build models:
-- **Post-train:** Data-efficient and stable reinforcement learning across domains, including RL and OPD for agentic AI and reasoning.
-- **Data & Eval:** Data synthesis research and reliable evaluation.
+- **Post-train:** data-efficient and stable reinforcement learning across domains, including RL and OPD for agentic AI and reasoning.
+- **Data & Eval:** data synthesis research and reliable evaluation.
 
 Open for any intern opportunities.
