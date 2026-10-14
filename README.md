@@ -8,4 +8,6 @@ I build models:
 - **Post-train:** Data-efficient and stable reinforcement learning across domains, including RL and OPD for agentic AI and reasoning.
 - **Data & Eval:** Data synthesis research and reliable evaluation.
 
+[A little corner for my blog and random musings — come wander if you're curious :)](https://sylvain-wei.github.io/blog)
+
 `Open for any intern opportunities.`
